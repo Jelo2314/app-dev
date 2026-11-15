@@ -6,7 +6,7 @@ My first repository
 
 **Genre:** Sports, Comedy, Drama
 
-**Movie Link to MyAnimeList**
+**Anime Series and Movie Link to MyAnimeList**
 - [Uma Musume: Pretty Derby Season 1](https://myanimelist.net/anime/35249/Uma_Musume__Pretty_Derby)
 - [Uma Musume: Pretty Derby Season 2](https://myanimelist.net/anime/42941/Uma_Musume__Pretty_Derby_Season_2)
 - [Uma Musume: Pretty Derby Season 3](https://myanimelist.net/anime/53526/Uma_Musume__Pretty_Derby_Season_3)
